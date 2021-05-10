@@ -518,4 +518,6 @@ spec:
         ports:
         - containerPort: 8030
 ```
+## Example de service ouvert (ShopFront)
 
+![shopfrint](media/Deepin%20Capture-écran_zone%20de%20sélection%20_20210510161258.png)
